@@ -28,5 +28,3 @@ I began my career as a programmer three years ago. I began my career as an inter
 <a href="http://www.github.com/Kioku-Shippuden"><img src="https://github-readme-stats.vercel.app/api?username=Kioku-Shippuden&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=3382ed&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="Kioku-Shippuden's GitHub stats" /></a>
 
 <a href="http://www.github.com/Kioku-Shippuden"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kioku-Shippuden&stroke=3382ed&background=000000&ring=22c55e&fire=22c55e&currStreakNum=3382ed&currStreakLabel=22c55e&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
-
-<a href="http://www.github.com/Kioku-Shippuden"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Kioku-Shippuden&bg_color=000000&color=3382ed&line=22c55e&point=3382ed&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
